@@ -1,6 +1,6 @@
 ## Quick script to process Uber Eats group order receipts
 
-Add pdf of uber eats receipts to receipts direction (uber_eats_receipts/receipts). Change directory in run.py if difference directory.
+Add pdfs of uber eats receipts to receipts directory (uber_eats_receipts/receipts). Change directory in run.py if difference directory.
 
 ```bash
 # To run the script, use the following command:
